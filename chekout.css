@@ -1,0 +1,97 @@
+body {font-family: Arial, Helvetica, sans-serif; margin: 0; font-weight: lighter;}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 28px 20px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+
+  .barang h2{
+    float: right;
+    margin-right: 60%;
+  }
+  .text {
+    
+    margin-left: 300px;
+    margin-bottom: 120px;
+    margin-top: -190px;
+  }
+
+  .button {
+    border-bottom: 5px solid black;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 300px;
+    margin-bottom: 300px;
+    
+  }
+  
+  .button1 {background-color: #4CAF50;} /* Green */
+  .button2 {background-color: #4CAF50;} /* Green */
+  
+  .checkout {
+    border: 10px solid black;
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    float: right;
+    margin-top: -290px;
+  }
+  
+  .checkout h1{
+    border-bottom: 2px solid;
+  }
+
+  .checkout p1{
+    margin-right: 300px;
+    margin-top: -50px;
+  }
+
+  .bayar{
+    margin-left: 250px;
+    margin-top: -18px;
+
+  }
+
+  .checkout p2{
+    margin-right: 250px;
+    margin-top: -70px;
+  }
+
+  .checkout p3{
+    margin-left: 250px;
+    margin-top: 60px;
+
+  }
+
+  .checkout h2{
+    border-top: 2px solid;
+  }
+
+  .button_bayar {
+    background-color: #4CAF50;
+    font-size: 40px;
+  }
